@@ -71,6 +71,3 @@ input_sentence = "hält das Gerüst"
 translated_sentence = translate_sentence(input_sentence)
 print("Translated Sentence:", translated_sentence)
 ```
-## External Source Code
-
-[Google Colab](https://colab.research.google.com/drive/1_3O8zUt97ktmifM8UlTWGK1UPKlrWZbV?usp=sharing)
